@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GPESacha21
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Artificial Intelligence products
+- 🌱 I’m currently learning Python, GitHub, Deep Learning, Machine Learning, Large Langue Models, AI Agents (AutoGen)
+- 💞️ I’m looking to collaborate on Artificial Intelligence Projects
 - 📫 How to reach me GitHub DM @ GPESacha21
 
 <!---
